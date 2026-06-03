@@ -55,3 +55,5 @@ streamlit run app.py
 
 SmartTourismAI Development Team
 Ayushi singh
+Divya
+Deva pandit
